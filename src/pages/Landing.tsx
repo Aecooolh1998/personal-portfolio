@@ -1,7 +1,7 @@
 function Landing() {
   return (
     <>
-      <p>Landing Page</p>
+      <p>Landing Page Coming Soon</p>
     </>
   );
 }

@@ -1,7 +1,7 @@
 function AboutMe() {
     return (
       <>
-        <p>About Me Page</p>
+        <p>About Me Coming Soon</p>
       </>
     );
   }

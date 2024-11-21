@@ -1,7 +1,7 @@
 function NotFound() {
     return (
       <>
-        <p>Not Found Page</p>
+        <p>Not Found Coming Soon</p>
       </>
     );
   }
